@@ -46,7 +46,7 @@ Desenvolvedor em constante evolução, focado na criação de soluções eficien
 <a href="https://www.linkedin.com/in/nicolas-moreira-4467b535a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:contato.nicolas.portes@email.com" target="_blank">
+<a href="mailto:contato.nicolasmoreiraportes@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
