@@ -48,4 +48,4 @@ Desenvolvedor em constante evolução, focado na criação de soluções eficien
 | **`scrap-web-com-pandas`** | 🕷️ Script de web scraping para extrair e processar dados automaticamente. | Python, Pandas, Playwright |
 | **`projeto-dados-pandas`** | 📈 Análise aprofundada de grandes conjuntos de dados para gerar insights. | Python, Pandas |
 | **`relatorio-implementa-o-aws`** | ☁️ Automação para gerar relatórios de uso e custos de infraestrutura AWS. | AWS, Cloud |
-| **`Acesso_A_Dados_Com_Java`** | 🔑 Sistema de acesso a dados e gerenciamento de usuários. | Java, SQL |
+
