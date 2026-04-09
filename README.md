@@ -10,7 +10,7 @@ Desenvolvedor em constante evolução, focado na criação de soluções eficien
 
 * 🔭 Atualmente focado em automação de tarefas e análise de dados com Python/Pandas.
 * 🌱 Explorando os conceitos de Cloud Computing com AWS.
-* 🎓 Estudando desenvolvimento web com JavaScript/HTML.
+* 🎓 Estudando Python/Dados e automações.
 
 ---
 
