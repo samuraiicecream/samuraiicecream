@@ -15,10 +15,9 @@ Desenvolvedor em constante evolução, focado na criação de soluções eficien
 ---
 
 ### 📈 Minhas Estatísticas
-
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=samuraiicecream&show_icons=true&theme=tokyonight&include_all_commits=true&v=1"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiicecream&layout=compact&theme=tokyonight&v=1"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=samuraiicecream&show_icons=true&theme=tokyonight&cache_seconds=86400&v=8472"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiicecream&layout=compact&theme=tokyonight&cache_seconds=86400&v=8472"/>
 </div>
 
 ---
