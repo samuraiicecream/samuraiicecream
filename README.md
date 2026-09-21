@@ -1,16 +1,14 @@
 # Olá, eu sou o Nicolas! 👋
 
-> "Um código de cada vez, rumo à maestria." 
+
 
 ---
 
 ### 🚀 Sobre Mim
 
-Desenvolvedor em constante evolução, focado na criação de soluções eficientes e apaixonado por dados. Minha jornada está centrada em automação, análise de dados e infraestrutura em nuvem. Estou constantemente desafiando o 'beginner' em mim para me tornar um especialista.
+*  Python e MySQL.
+*  DevOps (Linux, Git, Docker).
 
-* 🔭 Atualmente focado em scripts de automação (como extração de leads) e desenvolvendo um sistema de controle de acesso com Python e MySQL.
-* 🌱 Aprofundando estudos em DevOps (Linux, Git, Docker) e explorando a trilha de desenvolvimento Salesforce.
-* ⚡ **Curiosidade:** Para manter a lógica afiada fora das telas, gosto de resolver Sudoku e jogar xadrez.
 
 ---
 
